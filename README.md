@@ -2,6 +2,9 @@
 
 Small Photoshop script to create a fading star trails effect out of a group of selected layers.
 
+### Example
+![logo](https://petapixel.com/assets/uploads/2012/09/trails2.jpg)
+
 ### Methodology
 
 Loop through all selected layers and process like so:
